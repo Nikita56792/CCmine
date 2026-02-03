@@ -85,9 +85,10 @@ local function pastebin(paste,path)
             h.write(file)
             h.close()
     else
-        error("Pastebin server is not aviable.")
+        error("Pastebin server is not aviable. id paste: "..tostring(paste))
     end
 end
+
  
 --ЗАГРУЗИТЬ КОНКРЕТНОЕ ПРИЛОЖЕНИЕ
 local function downloadApp(pasteApp,pasteIcon,path)
