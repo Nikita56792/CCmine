@@ -1,10 +1,3 @@
--- grass_block_on_1x1_monitor.lua
--- Рисует “иконку” травяного блока (grass block) на одном мониторе (1x1).
-
--- 1) Подключи монитор к компьютеру.
--- 2) Сохрани этот файл на компьютере ComputerCraft.
--- 3) Запусти:  lua grass_block_on_1x1_monitor.lua
-
 local mon = peripheral.find("monitor")
 if not mon then
   error("Монитор не найден. Подключи монитор (peripheral 'monitor') к компьютеру.")
