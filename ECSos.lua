@@ -64,14 +64,14 @@ local Data = {
     --НОВЫЕ СУПЕР-ХИТРОЖОПЫЕ ПРИЛОЖЕНИЯ
  
  
-    --{["paste"]="iDuJCAPS",["icon"]="LVeGQ7pU",["path"]="AirDrop",["type"]="Application",["category"]="applications"},
-    --{["paste"]="sXj77Y2B",["icon"]="764jWGZX",["path"]="NewsTicker",["type"]="Application",["category"]="applications"},
-    --{["paste"]="sfY8Hwwb",["icon"]="rc2sddVB",["path"]="Pastebin",["type"]="Application",["category"]="applications"},
-    --{["paste"]="gt9f7EfZ",["icon"]="sj5uhGUz",["path"]="BSOD",["type"]="Application",["category"]="applications"},
-    --{["paste"]="D8hSLB2L",["icon"]="DZjpMD68",["path"]="CodeDoor",["type"]="Application",["category"]="applications"},
-    --{["paste"]="4nFps3sF",["icon"]="PA9HFXnX",["path"]="MineCode",["type"]="Application",["category"]="applications"},
+    {["paste"]="Fhr9jxcM",["icon"]="TDhdieH5",["path"]="AirDrop",["type"]="Application",["category"]="applications"},
+    {["paste"]="Z1e5u4rQ",["icon"]="7z62f6id",["path"]="NewsTicker",["type"]="Application",["category"]="applications"},
+    {["paste"]="7L6ij6W0",["icon"]="mqzX8PQD",["path"]="Pastebin",["type"]="Application",["category"]="applications"},
+    {["paste"]="i9uTPy9u",["icon"]="crHJd76u",["path"]="BSOD",["type"]="Application",["category"]="applications"},
+    {["paste"]="gUA2kUHU",["icon"]="Q7uxWDKq",["path"]="CodeDoor",["type"]="Application",["category"]="applications"},
+    {["paste"]="QaWkK8R7",["icon"]="JvrWTHiG",["path"]="MineCode",["type"]="Application",["category"]="applications"},
     {["paste"]="XsDyBwJG",["icon"]="xn4uWpFY",["path"]="Photoshop",["type"]="Application",["category"]="applications"},
-    --{["paste"]="hHum7Qqb",["icon"]="mMhJSh7x",["path"]="Graph",["type"]="Application",["category"]="applications"},
+    {["paste"]="3knRCmwn",["icon"]="zsniHYub",["path"]="Graph",["type"]="Application",["category"]="applications"},
 }
  
 ----------------------ОБЪЯВЛЕНИЕ ФУНКЦИЙ-----------------------
