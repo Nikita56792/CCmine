@@ -78,7 +78,7 @@ local Data = {
  
 --ЗАГРУЗКА ФАЙЛОВ С ПАСТЕБИНА
 local function pastebin(paste,path)
-        local file = http.get("http://pastebin.com/"..paste)
+        local file = http.get("http://pastebin.com/raw"..paste)
     if file then
             file = file.readAll()
             h=fs.open(path,"w")
